@@ -1,4 +1,4 @@
-Small CADed marble tracks, stand and marble, designed using onshape in browser, I will only be printing the helix+stand and the marble.
+Small CADed marble tracks, stand and marble, designed using onshape in browser, I will only be printing the helix+stand and the marble. Made for Half-life week 2 and 7!
 
 Helix+stand:
 
