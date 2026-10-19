@@ -10,20 +10,20 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 1 | 3.46h | 2 |
+| Week 2 | Tier 1 | 3.96h | 2 |
 
 ## Contents
 
-1. [2026-10-18 – 15 min yesterday trying to get onshape working, making a sign up and then a project. I didn't do much so I didnt take any screen shots](#2026-10-18-15-min-yesterday-trying-to-get-onshape-working-ma)
+1. [2026-10-18 – 45 min yesterday trying to get onshape working, making a sign up and then a project. I didn't do much so I didnt take any screen shots](#2026-10-18-45-min-yesterday-trying-to-get-onshape-working-ma)
 2. [2026-10-18 – YOU'RE SAYING DELETE IT???](#2026-10-18-youre-saying-delete-it)
 
 ## Design
 
-### 2026-10-18 – 15 min yesterday trying to get onshape working, making a sign up and then a project. I didn't do much so I didnt take any screen shots
+### 2026-10-18 – 45 min yesterday trying to get onshape working, making a sign up and then a project. I didn't do much so I didnt take any screen shots
 
-**1.83h**
+**2.33h**
 
-15 min yesterday trying to get onshape working, making a sign up and then a project. I didn't do much so I didnt take any screen shots
+45 min yesterday trying to get onshape working, making a sign up and then a project. I didn't do much so I didnt take any screen shots
 
 Today:
 
